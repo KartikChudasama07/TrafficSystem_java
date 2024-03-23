@@ -62,7 +62,7 @@ public class TrafficSignal {
     // IT DISPLAYS THE SIGNAL WITH RED LIGHT ON.
     public static void RedSignal(){        
         System.out.print("\033c");      // CLEARS THE TERMINAL(OUTPUT FROM PREVIOUS FUNCTION),  
-        System.out.print("\n\n");    
+        System.out.print("\n\n\n\n");    
         System.out.println("___  THIS PROGRAM DEPICTS A TRAFFIC SYSTEM FOR A CROSSROAD  ____");
         System.out.print("\n"); 
 
@@ -106,7 +106,7 @@ public class TrafficSignal {
     // IT DISPLAYS THE SIGNAL WITH LEFT GREEN LIGHT ON.
     public static void LeftGreensignal(){        
         System.out.print("\033c");
-        System.out.print("\n\n");    
+        System.out.print("\n\n\n\n");    
         System.out.println("___  THIS PROGRAM DEPICTS A TRAFFIC SYSTEM FOR A CROSSROAD  ____");
         System.out.print("\n");  
 
@@ -150,7 +150,7 @@ public class TrafficSignal {
     // IT DISPLAYS THE SIGNAL WITH YELLOW LIGHT ON.
     public static void YellowSignal(){        
         System.out.print("\033c");
-        System.out.print("\n\n");    
+        System.out.print("\n\n\n\n");    
         System.out.println("___  THIS PROGRAM DEPICTS A TRAFFIC SYSTEM FOR A CROSSROAD  ____");
         System.out.print("\n");  
 
@@ -194,7 +194,7 @@ public class TrafficSignal {
     // IT DISPLAYS THE SIGNAL WITH ALL GREEN LIGHTS ON.
     public static void GreenSignal(){        
         System.out.print("\033c");
-        System.out.print("\n\n");    
+        System.out.print("\n\n\n\n");    
         System.out.println("___  THIS PROGRAM DEPICTS A TRAFFIC SYSTEM FOR A CROSSROAD  ____");
         System.out.print("\n");  
         
